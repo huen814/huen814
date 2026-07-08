@@ -1,9 +1,14 @@
-<div align="center">
-  <img src="./assets/profile.jpg" width="220" alt="Profile" style="border-radius: 50%;" />
-
-  <h1>Hi, I'm Huen3n 👋</h1>
-  <p><em>Computer Science student • builder of small useful things</em></p>
-</div>
+<table>
+  <tr>
+    <td width="220">
+      <img src="./assets/profile.jpg" width="200" alt="Profile" />
+    </td>
+    <td valign="middle">
+      <h1>Hi, I'm Huen3n 👋</h1>
+      <p><em>Computer Science student • builder of small useful things</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
