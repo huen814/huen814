@@ -4,8 +4,8 @@
       <img src="./assets/profile.jpg" width="200" alt="Profile" />
     </td>
     <td valign="middle">
-      <h1>Hi, I'm Huen3n 👋</h1>
-      <p><em>Computer Science student • builder of small useful things</em></p>
+      <h1>Hi, I'm John Louis also known as Huen 👋</h1>
+      <p><em>Informations Technology Student</em></p>
     </td>
   </tr>
 </table>
@@ -14,16 +14,16 @@
 
 ### 🧑‍🎓 About Me
 
-I'm a Computer Science student at the **University of San Carlos**, currently deep in coursework spanning software development, digital electronics, SQL, and data structures in C. I like turning coursework into real, working projects rather than leaving them as exercises.
+I'm a 1st Year Informations Technology Student at the **University of San Carlos**, currently deep in coursework spanning programming, networking, SQL, and data structures in C. 
 
-Outside of class, I'm active in student organizations and enjoy gaming — especially **Beyblade X**.
+Outside of class, I'm active in student organizations and enjoy gaming.
 
 ---
 
 ### 🛠️ Skills
 
-**Languages:** C · PHP · SQL  
-**Web:** HTML · CSS · JavaScript (vanilla)  
+**Languages:** C · Python  · SQL  
+**Web:** HTML · CSS · JavaScript  
 **Database:** MySQL  
 **Concepts:** Data Structures (Linked Lists) · Digital Electronics (Boolean Algebra, K-Maps) · ERD & BPMN Documentation
 
@@ -41,7 +41,7 @@ Outside of class, I'm active in student organizations and enjoy gaming — espec
 <!-- Add your links below -->
 - Facebook: 
 - Instagram: 
-
+- LinkedIn: 
 ---
 
 <div align="center">
