@@ -37,13 +37,8 @@ Outside of class, I'm active in student organizations and enjoy gaming.
 ---
 
 ### 📫 Connect with me
-
-<!-- Add your links below -->
-- Facebook: 
-- Instagram: 
-- LinkedIn: 
+ 
+- LinkedIn: linkedin.com/in/john-louis-017294324/
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by!</sub>
-</div>
