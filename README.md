@@ -32,7 +32,6 @@ Outside of class, I'm active in student organizations and enjoy gaming.
 ### 🚀 Featured Projects
 
 - **Yosech Construction** — A PHP/MySQL web-based construction management system with three user roles (Client, Administrator, Project Manager), including dashboards, ERD, and BPMN process flow documentation.
-- **Accumulii** — A terminal-themed developer profile & repository showcase platform built with PHP, MySQL, and vanilla JavaScript.
 - **UniJoin** - An SQL join query reviewer with the goal on helping improve the skills of students taking the course Information Management II.
 ---
 
