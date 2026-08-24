@@ -22,7 +22,7 @@ Outside of class, I'm active in student organizations and enjoy gaming.
 
 ### 🛠️ Skills
 
-**Languages:** C · Python  · SQL  
+**Languages:** C · Python  · SQL  · Java
 **Web:** HTML · CSS · JavaScript  
 **Database:** MySQL  
 **Concepts:** Data Structures (Linked Lists) · Digital Electronics (Boolean Algebra, K-Maps) · ERD & BPMN Documentation
