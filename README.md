@@ -14,7 +14,7 @@
 
 ### 🧑‍🎓 About Me
 
-I'm a 1st Year Informations Technology Student at the **University of San Carlos**, currently deep in coursework spanning programming, networking, SQL, and data structures in C. 
+I'm a 2nd Year Informations Technology Student at the **University of San Carlos**, currently deep in coursework spanning programming, networking, SQL, and data structures in C. 
 
 Outside of class, I'm active in student organizations and enjoy gaming.
 
