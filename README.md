@@ -1,16 +1,14 @@
 <table>
   <tr>
-    <td width="220">
-      <img src="./assets/profile.jpg" width="200" alt="Profile" />
+    <td width="1000">
+      <img src="./assets/profile.jpg" width="1000" alt="Profile" />
     </td>
+    </td>
+    </tr>
     <td valign="middle">
+    </table>
       <h1>Hi, I'm John Louis also known as Huen 👋</h1>
-      <p><em>Informations Technology Student</em></p>
-    </td>
-  </tr>
-</table>
 
----
 
 ### 🧑‍🎓 About Me
 
